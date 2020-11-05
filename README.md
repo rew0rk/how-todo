@@ -15,5 +15,6 @@ cp -n /usr/local/opt/todo-txt/todo.cfg ~/.todo.cfg
 ## Get Started
 
 1. Config config to **~**, edit `$TODO_DIR` in **~/.todo.cfg**
-2. 
-
+2. Add alias in *rc `alias td=todo.sh`
+3. Add task `td a my things +project`
+4. List task `td ls`
