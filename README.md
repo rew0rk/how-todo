@@ -23,3 +23,4 @@ cp -n /usr/local/opt/todo-txt/todo.cfg ~/.todo.cfg
 7. List context `td lsc`
 8. List task by priority `td lsp`
 9. List files in the todo.txt directory `td lf`
+10. Mark as done `td do 1`
