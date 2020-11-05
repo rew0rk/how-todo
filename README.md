@@ -12,10 +12,10 @@ brew install todo-txt
 cp -n /usr/local/opt/todo-txt/todo.cfg ~/.todo.cfg
 ```
 
-## Get Started
+## Get Started with CLI
 
 1. Config config to **~**, edit `$TODO_DIR` in **~/.todo.cfg**
-2. Add alias in *rc `alias td=todo.sh`
+2. Add alias in .\*rc `alias td=todo.sh`
 3. Add task `td a my things +project`
 4. List task `td ls`
 5. Prioritize `td p 1 a`
@@ -24,3 +24,8 @@ cp -n /usr/local/opt/todo-txt/todo.cfg ~/.todo.cfg
 8. List task by priority `td lsp`
 9. List files in the todo.txt directory `td lf`
 10. Mark as done `td do 1`
+
+## App 🖍
+
+- Reference: http://todotxt.org/
+- Mac App: https://github.com/mjdescy/TodoTxtMac
