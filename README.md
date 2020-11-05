@@ -11,3 +11,9 @@
 brew install todo-txt
 cp -n /usr/local/opt/todo-txt/todo.cfg ~/.todo.cfg
 ```
+
+## Get Started
+
+1. Config config to **~**, edit `$TODO_DIR` in **~/.todo.cfg**
+2. 
+
