@@ -25,7 +25,12 @@ cp -n /usr/local/opt/todo-txt/todo.cfg ~/.todo.cfg
 9. List files in the todo.txt directory `td lf`
 10. Mark as done `td do 1`
 
+## Plugins for CLI
+
+https://github.com/todotxt/todo.txt-cli/wiki/Todo.sh-Add-on-Directory
+
 ## App 🖍
 
 - Reference: http://todotxt.org/
 - Mac App: https://github.com/mjdescy/TodoTxtMac
+- VSCode Plugin: https://github.com/vamanos/todo-txt
